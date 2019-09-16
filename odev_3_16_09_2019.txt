@@ -1,0 +1,19 @@
+Aşağıdaki programların her biri için şu sorulara yanıt vermeye çalışın:
+
+a) sentaks hatası var mı?
+b) tanımsız davranış (undefined behavior) var mı?
+c) ekran çıktısı ne olur?
+
+//----------------------------------------------------------------------------------------------------
+#include <stdio.h>
+
+int main()
+{
+	int x = 4;
+	int y = 10;
+
+	printf("%d\n", (x++, ++x));
+	printf("%d\n", (y *= x++, y + x));
+}
+//----------------------------------------------------------------------------------------------------
+
