@@ -10,8 +10,6 @@ Kendisine gönderilen iki tamsayının arkadaş olup olmadıklarını sınayan, 
 
 int are_friends(int number1, int number2);
 
-int are_friends(int number1, int number2);
-
 Yazdığınız işlevi aşağıdaki arkadaş sayı çiftleri ile test edebilirsiniz:
 
 220 284                         
