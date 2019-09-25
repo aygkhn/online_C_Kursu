@@ -4,7 +4,7 @@
 
 3) max3 isimli fonksiyona çağrı yaparak alınan 3 tamsayıdan en büyüğünü standart çıkış akımına (ekrana) yazdırınız:
 
-4) Aynı programı bu kez gerçek sayılar içim yazınız
+4) Aynı programı bu kez gerçek sayılar için yazınız
 
 Örnek ekran çıktısı (1)
 -----------------------
