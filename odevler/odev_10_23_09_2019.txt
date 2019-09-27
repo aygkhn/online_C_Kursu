@@ -1,4 +1,5 @@
-Aşağıdaki koda tek bir karakter ekleyeceksiniz ya da kodda tek bir karakteri değiştireceksiniz. Yapılan değişiklikten sonra oluşan C programı derlenip çalıştırıldığında standart çıkış akımına 5 kez
+Aşağıdaki koda tek bir karakter ekleyeceksiniz ya da koddan tek bir karakteri değiştireceksiniz.
+Yapılan değişiklikten sonra oluşan C programı derlenip çalıştırıldığında standart çıkış akımına 5 kez
 
 necati
 
