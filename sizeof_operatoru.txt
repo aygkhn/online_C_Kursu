@@ -216,4 +216,5 @@ int main()
 /* ---------------------kod----------------------------*/
 
 sizeof işleci ne amaçla kullanılır?
-Belirli bir türden nesne için bellekte ne büyüklükte bir bellek alanına gereksinim duyulacağı sistemden sisteme farklılık gösterebilir. Tür uzunluklarının sistemden sisteme farklı olabilmesi bazı uygulamalarda taşınabilirlik sorunlarına yol açabilir. sizeof işlecinin, genel olarak bu tür taşınabilirlik sorunlarını ortadan kaldırmaya yönelik olarak kullanıldığı söylenebilir.
+===================================
+Belirli bir türden nesne için bellekte ne büyüklükte bir bellek alanına gereksinim duyulacağı sistemden sisteme farklılık gösterebilir. Türler için belek ihtiyacının sistemden sisteme farklı olabilmesi bazı uygulamalarda taşınabilirlik sorunlarına yol açabilir. sizeof işlecinin, genel olarak bu tür taşınabilirlik sorunlarını ortadan kaldırmaya yönelik olarak kullanıldığı söylenebilir.
